@@ -62,8 +62,9 @@ body{
 }
 .card{
     background-color:#D5D9DB;
-    top: 50%;
-    left: 28px;
+    position: absolute;
+    top: 49%;
+    left: 43px;
     width: 38%;
 }
 .card .card-header{
