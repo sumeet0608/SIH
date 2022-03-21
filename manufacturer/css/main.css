@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 body {
-    background-image:  linear-gradient(to bottom, #ec1839, #e9405a, #eb5269);
+    background-image:  linear-gradient(90deg, #ec1839, #e9405a, #eb5269);
     font-family: 'Nunito', sans-serif;
     background-size: cover;
 }
