@@ -16,7 +16,7 @@ body{
 }
 .imgSection{
     overflow: hidden;
-    background-image: url("././images/bg2.png");
+    background-image: url("././images/bg3.png");
     opacity: 0.8;
     background-size: cover;
     background-position: center;
@@ -97,7 +97,4 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
-}
-.heart{
-    color:#ec1839;
 }
