@@ -70,9 +70,9 @@ body{
 .card{
     background-color:#D5D9DB;
     position: absolute;
-    top: 49%;
+    top: 48%;
     left: 43px;
-    width: 38%;
+    width: 40%;
     
     
 }
@@ -97,4 +97,7 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+.heart{
+    color:#ec1839;
 }
