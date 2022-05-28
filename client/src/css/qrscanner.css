@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+body {
+    background-image:  linear-gradient(90deg, #ec1839, #e9405a, #eb5269);
+    font-family: 'Nunito', sans-serif;
+    background-size: cover;
+    overflow-x:  hidden;
+}
+
+#container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    padding-right: 50px;
+    background-color:  rgb(46, 41, 41);
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    
+
+}
+#col1{
+    padding-left: 50px;
+    border-left: 30px;
+    width: 787px;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-top: 10px;
+    overflow: hidden;
+    background-color: #333;
+    position: auto;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-right: 200px ;
+    margin-top: -9px;
+    margin-left: -9px;
+}
+li{
+    float: right;
+    height: 50px;
+    padding-right: 50px ;
+    padding-bottom: 10px;
+}
+li a{
+    display: block;
+    padding: 10px;
+    color: azure;
+    text-decoration: none;
+    font-size: large;
+    
+    text-align: center;
+    
+}
+li a:hover{
+    background-color: black;
+    border-radius: 1em;
+    
+    
+}
+#table1{
+    border: 1px solid;
+    color: aliceblue;
+    width: 100%;
+    height: 30px;
+    border-radius: 1em;
+    text-align: center;
+    vertical-align: bottom;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    table-layout: auto;
+    empty-cells: show;
+    
+}
+tr:hover{background-color: rgb(168, 66, 66);}
+th{
+    background-color: antiquewhite;
+    color: black;
+}
+.lbl {
+    color: white;
+    font-size: 20px;
+}
+button{
+    width: 100px;
+    height: 60px;
+    font-family:'Nunito', sans-serif;
+    font-size: medium;
+    border-radius: 1em;
+    background: #eb5269;
+    color: whitesmoke;
+}
+
+#uname,
+#ubatch,
+#quantity,
+#expiry,
+#manuDate {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#ucomment {
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#submitbtn {
+    width: 100%;
+    height: 60px;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: #ec1839;
+    font-size: 20px;
+    cursor: pointer;
+}
+video{
+    
+    margin-left: -138px;
+    margin-top:10px;
+    margin-right: 3px;
+
+}
+#reader__scan_region{
+    margin-left: 68px;
+}
